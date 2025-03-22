@@ -1,0 +1,17 @@
+# Web framework
+streamlit
+requests
+
+# Data processing
+numpy
+pandas
+PyYAML
+
+# Image processing
+opencv-python-headless  # Avoids GUI dependencies in Docker
+pillow
+
+# Machine learning
+torch
+torchvision
+matplotlib
